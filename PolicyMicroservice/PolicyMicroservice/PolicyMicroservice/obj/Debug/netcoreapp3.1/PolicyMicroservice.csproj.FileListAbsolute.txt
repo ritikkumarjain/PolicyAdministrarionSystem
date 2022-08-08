@@ -1,0 +1,682 @@
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csprojAssemblyReference.cache
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csprojAssemblyReference.cache
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csprojAssemblyReference.cache
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csprojAssemblyReference.cache
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Final Project\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.AssemblyReference.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\2085266\OneDrive - Cognizant\Desktop\New folder\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.AssemblyReference.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.AssemblyReference.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\2085266\OneDrive - Cognizant\Desktop\Finalllll\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.AssemblyReference.cache
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.AssemblyReference.cache
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Users\crs20\source\repos\policy\PolicyAdminstratorService-main\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.AssemblyReference.cache
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Dotnet Full stack\MFPE\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.AssemblyReference.cache
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\Ritik\Desktop\PolicyAdministrationSystem\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.AssemblyReference.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\shiva\Desktop\cognizant\MFPE\MODULES\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.AssemblyReference.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\shiva\Desktop\cognizant\MFPE\FINAL PROJECT\V1\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.exe
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.deps.json
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.json
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.runtimeconfig.dev.json
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfoInputs.cache
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.AssemblyInfo.cs
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PolicyMicroservice.StaticWebAssets.xml
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyMicroservice.styles.css
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.CopyComplete
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.dll
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.pdb
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.genruntimeconfig.cache
+C:\Users\Ritik\Desktop\PolicyMicroservice\PolicyMicroservice\PolicyMicroservice\obj\Debug\netcoreapp3.1\PolicyMicroservice.csproj.AssemblyReference.cache
