@@ -26,7 +26,7 @@ A system for Adding/Updating/View Details of a person,his/her business and Creat
 #### Technologies used - React
 - Mostly work Done by Me. But has contribution from teamates.
 
-### Testing of APIS, Codes
+### Testing of APIs, Codes
 #### Technologies used for APIs testing - Swagger, Postman,
 #### Technologies(Libraries) used for TDD - Nunit, Moq
 Equal Contribution from each members in his/her part.
