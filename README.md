@@ -29,7 +29,8 @@ A system for Adding/Updating/View Details of a person,his/her business and Creat
 ### Testing of APIs, Codes
 #### Technologies used for APIs testing - Swagger, Postman,
 #### Technologies(Libraries) used for TDD - Nunit, Moq
-Equal Contribution from each members in his/her part.
+- Equal Contribution from each members in his/her part.
 
 ### Cloud Deployement
 #### Technologies used - Docker, AWS(Elastic Container Service, Elastic Container Registry, Relational Databases System)
+- Mostly Done by Radhika and Shicam. Contribution from teamates.
