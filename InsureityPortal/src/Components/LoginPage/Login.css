@@ -1,0 +1,44 @@
+/* body{
+    height: 100%;
+} */
+
+
+.loginForm {
+    margin-top: 150px;
+}
+
+.loginHead {
+    margin-top: 25px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+#username {
+    width: 205px;
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-left: 43px;
+    width: 600px;
+    margin-top: 10px;
+}
+
+#password {
+    width: 200px;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-left: 17px;
+    width: 600px;
+}
+.loginButton{
+    text-decoration: none;
+    margin-top: 10px;
+    width: 150px;
+    height: 35px;
+    border-radius: 1px solid gray;
+
+}

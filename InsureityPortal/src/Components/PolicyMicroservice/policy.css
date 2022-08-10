@@ -1,0 +1,52 @@
+.cp1{
+    margin-left: 50px;
+}
+
+.cp3{
+    margin-left: 5px;
+}
+
+.ip1{
+    margin-left: 68px;
+}
+.ip2{
+    margin-left: 12px;
+}
+
+.ip3{
+    margin-left: 3px;
+}
+
+table,
+tr,
+td {
+    border: 0.5px solid gray;
+    padding: 5px;
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+}
+
+table {
+    margin-top: 30px;
+    margin-left: 15px;
+    ;
+}
+
+td {
+    height: 50px;
+}
+
+.content {
+    margin: 10px 2px;
+    text-align: left
+}
+
+.vp1{
+
+    margin-left: 68px;
+}
+
+.buttons{
+    margin-top:10px;
+}
